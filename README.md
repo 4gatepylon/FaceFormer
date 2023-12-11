@@ -33,6 +33,7 @@ PyTorch implementation for the paper:
 Request the VOCASET data from [https://voca.is.tue.mpg.de/](https://voca.is.tue.mpg.de/). Place the downloaded files `data_verts.npy`, `raw_audio_fixed.pkl`, `templates.pkl` and `subj_seq_to_idx.pkl` in the folder `VOCASET`. Download "FLAME_sample.ply" from [voca](https://github.com/TimoBolkart/voca/tree/master/template) and put it in `VOCASET/templates`.
 
 ### BIWI
+BIWI is problematic because supposedly it's only for research purposes and therefore you need to get permission and give evidence that you'll only do it for research __and__ you cannot be a student (need to be a "group leader" or postdoc).
 
 Request the BIWI dataset from [Biwi 3D Audiovisual Corpus of Affective Communication](https://data.vision.ee.ethz.ch/cvl/datasets/b3dac2.en.html). The dataset contains the following subfolders:
 

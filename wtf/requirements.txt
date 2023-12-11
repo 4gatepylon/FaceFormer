@@ -1,0 +1,3 @@
+# Make sure to follow this: https://stackoverflow.com/questions/75178311/installed-open3d-lib-but-the-library-is-not-loading
+# Make sure you also follow https://stackoverflow.com/questions/77213053/why-did-flask-start-failing-with-importerror-cannot-import-name-url-quote-fr
+open3d
